@@ -8,17 +8,57 @@ document.addEventListener('DOMContentLoaded', function() {
   const servicos = {
     "Iluminação": [
       {
-        src: "works/luces.jpg",
+        src: "works/iluminacao/ilum_1.jpg",
         title: "Projeto Personalizado",
         description: "Sistema de iluminação LED com design moderno e controle inteligente"
       },
       {
-        src: "works/extra1.jpg",
+        src: "works/iluminacao/ilum_2.jpg",
+        title: "Instalação Profissional",
+        description: "Técnicos especializados garantindo perfeito funcionamento"
+      },
+      {
+        src: "works/iluminacao/ilum_3.jpg",
+        title: "Instalação Profissional",
+        description: "Técnicos especializados garantindo perfeito funcionamento"
+      },
+      {
+        src: "works/iluminacao/ilum_4.jpg",
+        title: "Instalação Profissional",
+        description: "Técnicos especializados garantindo perfeito funcionamento"
+      },
+      {
+        src: "works/iluminacao/ilum_5.jpg",
+        title: "Instalação Profissional",
+        description: "Técnicos especializados garantindo perfeito funcionamento"
+      },
+      {
+        src: "works/iluminacao/ilum_6.jpg",
+        title: "Instalação Profissional",
+        description: "Técnicos especializados garantindo perfeito funcionamento"
+      },
+      {
+        src: "works/iluminacao/ilum_7.jpg",
         title: "Instalação Profissional",
         description: "Técnicos especializados garantindo perfeito funcionamento"
       }
     ],
     "Eletrica": [
+      {
+        src: "works/eletrica/elt_1.jpg",
+        title: "Painel Elétrico",
+        description: "Instalação profissional de quadros de distribuição"
+      },
+      {
+        src: "works/eletrica/elt_2.jpg",
+        title: "Painel Elétrico",
+        description: "Instalação profissional de quadros de distribuição"
+      },
+      {
+        src: "works/Panel_electrico.jpg",
+        title: "Painel Elétrico",
+        description: "Instalação profissional de quadros de distribuição"
+      },
       {
         src: "works/Panel_electrico.jpg",
         title: "Painel Elétrico",
