@@ -65,6 +65,13 @@ document.addEventListener('DOMContentLoaded', function() {
         description: "Instalação profissional de quadros de distribuição"
       }
     ],
+    "Instalações Personalizadas":[
+      
+
+
+
+    ]
+  
     // Adicione outros serviços conforme necessário
   };
 
